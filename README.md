@@ -6,7 +6,7 @@ PDF Signer is a very simple way to sign your PDF documents with the Portuguese C
 * Time stamping
 * Batch signing
 * Multiple digital signatures
-* Sets the signing reason/location
+* Specify the reason/location for signing
 
 
 ## Dependencies
