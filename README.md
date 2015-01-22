@@ -3,9 +3,10 @@ PDF Signer is a very simple way to sign your PDF documents with the Portuguese C
 
 
 ## Features
-* Multiple digital signatures
-* Time Stamping
+* Time stamping
 * Batch signing
+* Multiple digital signatures
+* Sets the signing reason/location
 
 
 ## Dependencies
