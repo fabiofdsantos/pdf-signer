@@ -17,7 +17,7 @@ using iTextSharp.text.pdf.security;
 using Org.BouncyCastle.X509;
 using System.Security;
 
-namespace pdfSignerWithCC
+namespace pdfSigner
 {
     public partial class MainForm : Form
     {
