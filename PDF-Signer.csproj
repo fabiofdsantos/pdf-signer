@@ -8,7 +8,7 @@
     <ProjectGuid>{5737F568-8F08-4143-9A12-9899BA2BE9F4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <DefaultClrNameSpace>wSignerUI</DefaultClrNameSpace>
+    <DefaultClrNameSpace>pdfSigner</DefaultClrNameSpace>
     <RootNamespace>pdfSigner</RootNamespace>
     <AssemblyName>pdfSigner</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
