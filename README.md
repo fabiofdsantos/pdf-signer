@@ -17,5 +17,5 @@ PDF Signer is a very simple way to sign your PDF documents with the Portuguese C
 
 
 ## License
-Copyright (c) 2015 [Fábio Santos](http://www.fabiosantos.pt) and [Eurico Sousa](https://github.com/ejm3). See the LICENSE
+Copyright (c) 2015 [Fábio Santos](http://www.fabiosantos.me) and [Eurico Sousa](https://github.com/ejm3). See the LICENSE
 file for license rights and limitations (MIT).
